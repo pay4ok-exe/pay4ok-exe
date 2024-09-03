@@ -12,7 +12,7 @@
  
  🔭 I’m currently studying at **SDU University**
  
- 🌱 I’m currently learning **MogoDB, Express.js, Reeact, Node.js**
+ 🌱 I’m currently learning **MogoDB, Express.js, React, Node.js**
 
 💬 Ask me about **Java, Data Structure, OOP, Algorithms or anything IT-related!**
 
