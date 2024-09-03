@@ -38,8 +38,11 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,vscode,github,mysql,postgresql,python" />
+</div>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,git,react" /><br>
 </div>
+
 
 <br/>
 
