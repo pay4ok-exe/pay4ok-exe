@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Color Palette Explorer** and **Jumys Tap**
+ 🔭 I’m currently studying at **SDU University**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **MogoDB, Express.js, Reeact, Node.js**
 
-💬 Ask me about **Java, Spring, React, or anything IT-related!**
+💬 Ask me about **Java, HTML, or anything IT-related!**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact * I enjoy watching the One Piece anime! (fav. God. D. Usoop)**
 
  </div>
  
@@ -27,9 +27,9 @@
   <a href="https://linkedin.com/in/ospan-akim-810ba52bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://pay4ok-exe.github.io/ColorPaletteExplorer/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
+  <a href="https://leetcode.com/u/pay4ok_exe/" target="_blank">
+     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" />
+</a>
 </div>
 
  <hr/>
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,bootstrap,kotlin,vscode,github,tailwind,figma,mysql,postgresql" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,typescript,mongodb,git,flask,nextjs,r,react" /><br>
+    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,vscode,github,mysql,postgresql,powerpoint" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,git,react" /><br>
 </div>
 
 <br/>
